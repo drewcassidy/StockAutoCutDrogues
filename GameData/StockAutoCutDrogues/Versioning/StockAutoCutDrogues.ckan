@@ -10,3 +10,5 @@ depends:
     min_version: v0.2.0
 recommends:
   - name: KSPCommunityFixes
+conflicts:
+  - name: RealChute
